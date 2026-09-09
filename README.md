@@ -237,3 +237,6 @@ This repository serves as the official landing page for VineClient. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of VineClient today!**
+
+---
+**Last updated:** 2026-09-09 22:25:35 UTC
